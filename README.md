@@ -1,7 +1,7 @@
 # Chat Room Program
 
 #### *Video Demo:* https://youtu.be/6a9CUzjS7qw
-#### *Description:* This is a chatroom program that allows two users to communicate with one another.
+#### *Description:* This is a chatroom program that allows two users to communicate with one another. In order to make this work, the curses library is necessary to be downloaded.
 
 #### *Why I decided to make it:*
 ##### My dad was the one who suggested me to try and make my own chatroom program because I wasn't sure what to make at first. I wanted a challenge, and I wanted to learn more about networking, so this was the perfect goal for me.

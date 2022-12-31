@@ -1,4 +1,4 @@
-# chatroomprogram
+# Chat Room Program
 
 #### *Video Demo:* https://youtu.be/6a9CUzjS7qw
 #### *Description:* This is a chatroom program that allows two users to communicate with one another.

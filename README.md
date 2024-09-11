@@ -1,4 +1,4 @@
-# TWOCHAT: Chat Room Program
+# TWO/CHAT: Chat Room Program
 
 #### *Video Demo:* https://youtu.be/6a9CUzjS7qw
 #### *Description:* This is a chatroom program that allows two users to communicate with one another. In order to make this work, the curses library is necessary to be downloaded.
